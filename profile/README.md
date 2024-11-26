@@ -1,4 +1,8 @@
-## Hi there 👋
+## Pipeline Springboard
+
+The Pipeline Springboard project is designed to help you automatically run your pipelines quickly, with very little effort. Our philosophy is that you should focus more on your code, and less on your build and deployments.
+
+This project is still in the build phase, so please be patient as we build out each pipeline!Once ready, each pipeline will be linked here.
 
 <!--
 
